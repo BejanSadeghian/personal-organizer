@@ -1,0 +1,33 @@
+﻿{
+    "ConnectionStrings": {
+        "DefaultConnection": "DataSource=app.db"
+    },
+    "Logging": {
+        "LogLevel": {
+            "Default": "Warning"
+        }
+    },
+    "AllowedHosts": "*",
+    "urgentOptions": {
+        "1. Critical": "Tasks that have an imminent or rapidly approaching deadline and require immediate attention to prevent significant negative consequences.",
+        "2. High": "Tasks that have an impending deadline and require immediate attention to avoid negative consequences.",
+        "3. Medium": "Tasks that have a deadline and require attention in the near future, but do not have serious consequences if not completed immediately.",
+        "4. Low": "Tasks that have a deadline but are not pressing or do not have immediate consequences if not completed.",
+        "5. Not Urgent": "Tasks that have no deadline or can be completed at any time."
+
+    },
+    "importanceOptions": {
+        "1. Critical": "Tasks that are of the utmost importance and are critical to achieving your long-term goals or well-being.",
+        "2. High": "Tasks that are very important and are essential to achieving your long-term goals or well-being.",
+        "3. Medium": "Tasks that are important and contribute to your long-term goals or well-being, but are not essential.",
+        "4. Low": "Tasks that are somewhat important but do not contribute significantly to your long-term goals or well-being.",
+        "5. Not Important": "Tasks that have little to no impact on your long-term goals or well-being."
+
+    }
+    "commandMapping": {
+        "1": "add",
+        "2": "peek",
+        "3": "list",
+        "4": "finish",
+        "5": "quit"
+    }

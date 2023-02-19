@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1704.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "personal-organizer", "personal-organizer\personal-organizer.csproj", "{19A2F4E6-9BAE-406A-93DC-B9E19C0D1AA0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0F8042D3-4CC6-40C8-9734-61273C09BE6C}"
+	ProjectSection(SolutionItems) = preProject
+		Properties\AssemblyInfo.cs = Properties\AssemblyInfo.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19A2F4E6-9BAE-406A-93DC-B9E19C0D1AA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19A2F4E6-9BAE-406A-93DC-B9E19C0D1AA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19A2F4E6-9BAE-406A-93DC-B9E19C0D1AA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19A2F4E6-9BAE-406A-93DC-B9E19C0D1AA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BCE516A2-CB40-432C-93DC-5020BE8C499B}
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		description = General app settings
+	EndGlobalSection
+EndGlobal
